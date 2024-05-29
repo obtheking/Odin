@@ -1,5 +1,5 @@
 <h1 align = "center">
-	Odin
+	Odin-UI
 </h1>
 
 <div align="center">
